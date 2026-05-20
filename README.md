@@ -18,3 +18,8 @@ Multi-site dashboard tracking invoice trends, return reasons, and product perfor
 ![Sysco Dashboard 1](Sysco%20Dashboard%201%20.png)
 
 ![Sysco Dashboard 2](Sysco%20Dashboard%202.png)
+
+## AI-Generated ERP Training Video
+Enterprise ERP training walkthrough created using ElevenLabs AI voiceover and Clipchamp. Demonstrates customer creation process as part of a multi-site UMS deployment rollout.
+
+[Watch Training Video](https://youtu.be/GnjaCmJJpEA)
